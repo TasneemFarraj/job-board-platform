@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "brand": "جوبر",
+    "browseJobs": "تصفح الوظائف",
+    "myApplications": "طلباتي",
+    "saved": "المحفوظة"
+  },
+  "hero": {
+    "title": "اعثر على فرصتك القادمة",
+    "subtitle": "تصفح آلاف الوظائف من أفضل الشركات"
+  },
+  "search": {
+    "placeholder": "ابحث عن وظيفة بالمسمى أو كلمة مفتاحية",
+    "locationPlaceholder": "الموقع",
+    "button": "بحث",
+    "allCategories": "كل الفئات",
+    "clearFilters": "مسح الفلاتر",
+    "jobsFound": "وظيفة واحدة",
+    "jobsFound_other": "{{count}} وظيفة",
+    "sortBy": "ترتيب حسب:",
+    "seniority": "كل المستويات"
+  },
+  "sort": {
+    "relevant": "الأكثر ملاءمة",
+    "newest": "الأحدث",
+    "salary-desc": "الراتب: من الأعلى للأقل",
+    "salary-asc": "الراتب: من الأقل للأعلى",
+    "company-az": "الشركة أ-ي"
+  },
+  "job": {
+    "apply": "تقديم",
+    "applied": "تم التقديم",
+    "salaryUndisclosed": "الراتب غير محدد",
+    "remote": "عن بعد"
+  },
+  "empty": {
+    "noResults": "لا توجد وظائف",
+    "noResultsHint": "جرّب تعديل البحث أو الفلاتر",
+    "noSaved": "لا توجد وظائف محفوظة بعد",
+    "noSavedHint": "احفظ الوظائف التي تعجبك وستجدها هنا",
+    "noApplications": "لا توجد طلبات بعد",
+    "noApplicationsHint": "ستظهر هنا الوظائف التي تقدمت لها"
+  },
+  "apply": {
+    "title": "التقديم على {{jobTitle}}",
+    "at": "لدى {{company}}",
+    "fullName": "الاسم الكامل",
+    "fullNamePlaceholder": "أدخل اسمك الكامل",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "you@example.com",
+    "phone": "رقم الهاتف",
+    "phonePlaceholder": "+962 7 0000 0000",
+    "cv": "رفع السيرة الذاتية",
+    "cvHint": "PDF أو DOCX حتى 5 ميجابايت",
+    "cvDrop": "اسحب الملف هنا أو",
+    "cvBrowse": "تصفح",
+    "coverNote": "رسالة تعريفية",
+    "coverNotePlaceholder": "أخبرنا لماذا أنت مناسب لهذه الوظيفة...",
+    "cancel": "إلغاء",
+    "optional": "اختياري",
+    "cvChange": "انقر لتغيير الملف",
+    "submit": "إرسال الطلب",
+    "errors": {
+      "required": "هذا الحقل مطلوب",
+      "invalidEmail": "أدخل بريدًا إلكترونيًا صحيحًا",
+      "cvRequired": "الرجاء رفع سيرتك الذاتية",
+      "cvType": "يُسمح فقط بملفات PDF أو DOCX",
+      "cvSize": "يجب أن يكون الملف أقل من 5 ميجابايت"
+    }
+  },
+  "confirmation": {
+    "title": "تم إرسال الطلب",
+    "message": "تم إرسال طلبك لوظيفة <bold>{{jobTitle}}</bold> لدى <bold>{{company}}</bold>. ستصلك رسالة تأكيد قريبًا.",
+    "details": "تفاصيل الطلب",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "cv": "السيرة الذاتية",
+    "viewApplications": "عرض طلباتي",
+    "browseMore": "تصفح المزيد من الوظائف"
+  },
+  "applications": {
+    "title": "طلباتي",
+    "subtitle": "تابع حالة طلبات التوظيف الخاصة بك",
+    "searchPlaceholder": "ابحث بالمسمى الوظيفي أو الشركة...",
+    "allStatuses": "كل الحالات",
+    "allTime": "كل الأوقات",
+    "last30d": "آخر 30 يومًا",
+    "last90d": "آخر 90 يومًا",
+    "count": "طلب واحد",
+    "count_other": "{{count}} طلبات",
+    "position": "الوظيفة",
+    "company": "الشركة",
+    "submitted": "تاريخ التقديم",
+    "status": "الحالة",
+    "all": "الكل"
+  },
+  "status": {
+    "Under review": "قيد المراجعة",
+    "Interview": "مقابلة",
+    "Rejected": "مرفوض",
+    "Withdrawn": "منسحب"
+  },
+  "user": {
+    "darkMode": "الوضع الداكن",
+    "logout": "تسجيل الخروج"
+  },
+  "saved": {
+    "title": "الوظائف المحفوظة",
+    "subtitle": "الوظائف التي قمت بحفظها لوقت لاحق",
+    "unsave": "إزالة"
+  }
+}

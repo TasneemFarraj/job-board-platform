@@ -1,0 +1,112 @@
+{
+  "nav": {
+    "brand": "Jobbr",
+    "browseJobs": "Browse jobs",
+    "myApplications": "My applications",
+    "saved": "Saved"
+  },
+  "hero": {
+    "title": "Find your next opportunity",
+    "subtitle": "Browse thousands of jobs from top companies"
+  },
+  "search": {
+    "placeholder": "Search jobs by title or keyword",
+    "locationPlaceholder": "Location",
+    "button": "Search",
+    "allCategories": "All categories",
+    "clearFilters": "Clear filters",
+    "jobsFound": "{{count}} job found",
+    "jobsFound_other": "{{count}} jobs found",
+    "sortBy": "Sort by:",
+    "seniority": "All seniority levels"
+  },
+  "sort": {
+    "relevant": "Most relevant",
+    "newest": "Newest first",
+    "salary-desc": "Salary: high to low",
+    "salary-asc": "Salary: low to high",
+    "company-az": "Company A–Z"
+  },
+  "job": {
+    "apply": "Apply",
+    "applied": "Applied",
+    "salaryUndisclosed": "Salary not disclosed",
+    "remote": "Remote"
+  },
+  "empty": {
+    "noResults": "No jobs found",
+    "noResultsHint": "Try adjusting your search or filters",
+    "noSaved": "No saved jobs yet",
+    "noSavedHint": "Bookmark jobs you like and find them here",
+    "noApplications": "No applications yet",
+    "noApplicationsHint": "Jobs you apply to will show up here"
+  },
+  "apply": {
+    "title": "Apply for {{jobTitle}}",
+    "at": "at {{company}}",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Enter your full name",
+    "email": "Email address",
+    "emailPlaceholder": "you@example.com",
+    "phone": "Phone number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "cv": "Upload CV",
+    "cvHint": "PDF or DOCX up to 5 MB",
+    "cvDrop": "Drop your file here or",
+    "cvBrowse": "browse",
+    "coverNote": "Cover note",
+    "coverNotePlaceholder": "Tell us why you're a great fit...",
+    "cancel": "Cancel",
+    "optional": "optional",
+    "cvChange": "Click to change file",
+    "submit": "Submit application",
+    "errors": {
+      "required": "This field is required",
+      "invalidEmail": "Enter a valid email address",
+      "cvRequired": "Please upload your CV",
+      "cvType": "Only PDF or DOCX files are allowed",
+      "cvSize": "File must be under 5 MB"
+    }
+  },
+  "confirmation": {
+    "title": "Application submitted",
+    "message": "Your application for <bold>{{jobTitle}}</bold> at <bold>{{company}}</bold> has been sent. You'll receive a confirmation email shortly.",
+    "details": "Application details",
+    "name": "Name",
+    "email": "Email",
+    "cv": "CV",
+    "viewApplications": "View my applications",
+    "browseMore": "Browse more jobs"
+  },
+  "applications": {
+    "title": "My Applications",
+    "subtitle": "Track the status of your job applications",
+    "searchPlaceholder": "Search by job title or company...",
+    "allStatuses": "All statuses",
+    "allTime": "All time",
+    "last30d": "Last 30 days",
+    "last90d": "Last 90 days",
+    "count": "{{count}} application",
+    "count_other": "{{count}} applications",
+    "position": "Position",
+    "company": "Company",
+    "submitted": "Submitted",
+    "status": "Status",
+    "all": "All"
+  },
+  "status": {
+    "Under review": "Under review",
+    "Interview": "Interview",
+    "Rejected": "Rejected",
+    "Withdrawn": "Withdrawn"
+  },
+  "user": {
+    "darkMode": "Dark Mode",
+    "logout": "Log out"
+  },
+  "saved": {
+    "title": "Saved Jobs",
+    "subtitle": "Jobs you've bookmarked for later",
+    "unsave": "Remove"
+  }
+}
